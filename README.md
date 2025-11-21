@@ -115,5 +115,3 @@ It is designed for testing segmentation strategies and ROI optimization.
 - `ROI_Category` — Low / Medium / High  
 
 ---
-
-## 📁 Project Structure
